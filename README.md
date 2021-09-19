@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBrJ&layout=compact" />
 </a>
 
-<br/>
+
 :book:  I'm currently studying at Holberton School.
 <br/>
 
