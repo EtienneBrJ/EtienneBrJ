@@ -1,4 +1,4 @@
-# Hi ![Alt Text](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif =50x50)
+# Hi ![Alt Text](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif =50x)
 
 I'm currently student at Holberton School.
 
