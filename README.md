@@ -11,6 +11,6 @@
 :computer: Here you can find all the projects I have done this year
 <br/>
 
-:mail: You can reach me at etiennebrj@gmail.com
+:email: You can reach me at etiennebrj@gmail.com
 
 :v: I hope your going to enjoy my work in progress 
