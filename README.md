@@ -7,5 +7,5 @@
 :computer: Here you can find all the projects I have done this year 
 
 :mailbox_with_mail: You can reach me at etiennebrj@gmail.com 
-
+</br>
 :v: I hope your going to enjoy my work in progress
