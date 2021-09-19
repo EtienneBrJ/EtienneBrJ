@@ -6,10 +6,8 @@
 
 
 :book:  I'm currently studying at Holberton School.
-<br/>
 
 :computer: Here you can find all the projects I have done this year
-<br/>
 
 :email: You can reach me at etiennebrj@gmail.com
 
