@@ -6,6 +6,7 @@ Here you can find all the projects I have done this year
 
 <p align="center">
 <img="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBrJ&layout=compact" alt="https://github.com/EtienneBrJ/github-readme-stats"/>
+<img="https://github.com/EtienneBrJ/github-readme-stats" alt="S"/>
 </p>
 
 You can reach me at etiennebrj@gmail.com
