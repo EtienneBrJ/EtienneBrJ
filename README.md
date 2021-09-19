@@ -3,9 +3,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBrJ&layout=compact" />
 </a>
-
+<p align="center">
 Welcome to my Github
-
+</p>
 I'm currently studying at Holberton School.
 
 Here you can find all the projects I have done this year
