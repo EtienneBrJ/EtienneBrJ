@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35" />
+# Hi there ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35" />
 
 I'm currently studying at Holberton School.
 
