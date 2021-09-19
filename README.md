@@ -4,6 +4,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBrJ&layout=compact" />
 </a>
 
+
+
 I'm currently studying at Holberton School.
 
 Here you can find all the projects I have done this year
