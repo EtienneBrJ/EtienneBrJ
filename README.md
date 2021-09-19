@@ -5,12 +5,12 @@
 </a>
 
 
-I'm currently studying at Holberton School.
+:book:  I'm currently studying at Holberton School.
 <br/>
 
-Here you can find all the projects I have done this year
+:computer: Here you can find all the projects I have done this year
 <br/>
 
-You can reach me at etiennebrj@gmail.com
+:mail: You can reach me at etiennebrj@gmail.com
 
-I hope your going to enjoy my work in progress 
+:v: I hope your going to enjoy my work in progress 
