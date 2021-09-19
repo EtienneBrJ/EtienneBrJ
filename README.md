@@ -4,10 +4,9 @@ I'm currently studying at Holberton School.
 
 Here you can find all the projects I have done this year
 
-<p align="center">
-<img="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBrJ&layout=compact" alt="https://github.com/EtienneBrJ/github-readme-stats"/>
-<img="https://github.com/EtienneBrJ/github-readme-stats" alt="S"/>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBrJ&layout=compact" />
+</a>
 
 You can reach me at etiennebrj@gmail.com
 
