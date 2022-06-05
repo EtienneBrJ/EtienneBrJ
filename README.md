@@ -2,11 +2,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBrJ&layout=compact" />
 </a>
 
-:v: Currently learning Solidity with Brownie
+:v: Currently intern at Actual
 
-:school: Student at Holberton School. 
+:school: Completed Holberton fundamentals. 
 
-:computer: Here you can find all the projects I have done this year 
+:computer: Here you can find some projects I did this year 
 
-:mailbox_with_mail: You can reach me at etiennebrj@gmail.com 
+:mailbox_with_mail: You can reach me at etiennebrxv@gmail.com 
 
